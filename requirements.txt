@@ -1,0 +1,7 @@
+Flask
+opencv-python
+face_recognition
+dlib
+numpy
+pandas
+python-dotenv
